@@ -1,0 +1,301 @@
+StudentID,Gender,StudyHoursPerDay,AttendancePercentage,ParentalEducation,FinalScore
+1,Female,2.5,90.7,Bachelor's,36.3
+2,Female,2.2,83.7,Master's,48.0
+3,Male,0.6,54.5,High School,21.8
+4,Male,7.8,52.8,Bachelor's,68.7
+5,Male,5.0,89.2,High School,66.2
+6,Male,2.7,65.0,Bachelor's,47.6
+7,Male,8.1,55.1,Bachelor's,49.8
+8,Female,3.4,62.0,Bachelor's,33.5
+9,Male,2.0,89.7,PhD,24.9
+10,Male,3.4,99.7,High School,66.3
+11,Female,6.7,95.9,High School,73.9
+12,Female,2.8,54.4,Bachelor's,32.1
+13,Male,2.7,83.1,Master's,45.0
+14,Male,8.8,67.6,High School,82.5
+15,Male,5.4,73.8,Bachelor's,59.3
+16,Female,7.4,74.6,Bachelor's,57.9
+17,Male,9.0,69.2,High School,82.0
+18,Female,2.7,64.3,PhD,47.6
+19,Female,5.3,81.6,Bachelor's,56.7
+20,Female,1.3,68.2,PhD,33.3
+21,Female,9.6,66.7,High School,72.6
+22,Male,8.1,60.2,Bachelor's,82.4
+23,Male,6.5,98.1,Master's,63.9
+24,Male,2.0,71.5,Master's,33.1
+25,Male,9.7,70.8,Bachelor's,83.3
+26,Male,0.4,71.7,Bachelor's,28.6
+27,Male,4.2,81.0,Master's,56.7
+28,Male,9.4,58.6,High School,66.7
+29,Female,3.2,54.9,Bachelor's,41.6
+30,Male,7.8,91.0,High School,72.9
+31,Female,9.8,91.3,Bachelor's,90.0
+32,Male,7.0,59.4,High School,65.0
+33,Male,3.0,86.6,High School,41.7
+34,Female,9.7,62.6,Master's,57.4
+35,Female,4.0,67.6,Bachelor's,58.6
+36,Male,9.5,98.7,Bachelor's,89.7
+37,Female,1.3,87.0,Master's,31.4
+38,Male,9.4,95.3,Master's,100.0
+39,Male,7.6,61.7,Bachelor's,77.9
+40,Male,0.5,76.4,High School,30.7
+41,Male,6.6,59.6,High School,72.2
+42,Male,2.3,93.9,Bachelor's,49.7
+43,Male,5.2,52.4,Bachelor's,45.6
+44,Male,5.1,91.8,High School,59.1
+45,Female,1.1,85.9,Bachelor's,44.4
+46,Female,8.2,96.1,High School,82.5
+47,Male,9.6,91.0,Master's,82.6
+48,Male,5.9,58.8,High School,57.5
+49,Female,4.0,79.4,PhD,55.6
+50,Male,6.6,87.3,High School,67.9
+51,Male,4.0,98.8,Bachelor's,61.7
+52,Female,6.0,82.2,Bachelor's,75.1
+53,Female,4.3,66.0,Master's,49.1
+54,Male,1.5,89.5,High School,50.1
+55,Male,8.5,50.9,Bachelor's,70.0
+56,Male,3.6,77.6,Bachelor's,54.9
+57,Female,1.0,81.1,High School,33.7
+58,Male,0.4,63.8,Bachelor's,24.6
+59,Male,4.6,69.4,Bachelor's,41.2
+60,Male,1.3,93.8,Bachelor's,42.6
+61,Male,7.0,99.3,Master's,45.9
+62,Female,0.6,57.0,Bachelor's,16.6
+63,Male,0.0,97.1,PhD,27.5
+64,Female,0.9,70.8,Master's,23.6
+65,Male,8.1,74.8,Bachelor's,83.2
+66,Female,7.0,,Bachelor's,62.3
+67,Female,8.6,78.3,Bachelor's,78.7
+68,Female,8.0,79.6,High School,78.0
+69,Female,2.3,74.6,High School,45.7
+70,Male,5.1,63.9,Bachelor's,56.5
+71,Female,5.4,67.2,Bachelor's,58.3
+72,Male,2.9,96.6,Bachelor's,54.6
+73,Male,3.7,81.2,High School,64.3
+74,Male,2.7,91.6,Bachelor's,37.2
+75,Male,0.9,68.4,Bachelor's,16.6
+76,Male,7.5,96.8,High School,78.7
+77,Male,7.3,,High School,71.4
+78,Female,0.0,63.8,Bachelor's,28.8
+79,Male,2.4,,High School,43.8
+80,Male,2.7,62.6,Bachelor's,46.1
+81,Male,7.9,78.0,PhD,58.5
+82,Male,5.1,75.3,High School,51.6
+83,Male,4.7,52.7,High School,50.3
+84,Male,2.6,89.5,Master's,43.7
+85,Female,6.0,60.7,High School,62.1
+86,Female,8.8,52.7,Bachelor's,67.5
+87,Female,9.9,64.2,PhD,77.8
+88,Female,0.3,77.5,PhD,34.9
+89,Male,5.2,76.5,Bachelor's,63.3
+90,Male,0.4,81.1,High School,28.8
+91,Female,8.4,57.1,Master's,81.5
+92,Female,6.4,99.4,Bachelor's,69.6
+93,Female,4.0,82.7,Bachelor's,55.2
+94,Male,3.1,81.5,High School,26.9
+95,Male,0.6,55.9,High School,29.0
+96,Male,9.0,51.8,Master's,83.2
+97,Female,9.1,99.2,Master's,93.6
+98,Male,9.5,59.9,Master's,72.0
+99,Male,9.2,62.9,Bachelor's,84.8
+100,Female,0.3,63.9,Bachelor's,25.5
+101,Male,8.8,62.7,PhD,68.1
+102,Female,0.4,85.4,High School,24.7
+103,Male,9.8,86.3,High School,92.3
+104,Female,7.6,98.7,High School,73.4
+105,Male,8.9,54.3,High School,66.5
+106,Male,7.5,89.4,Bachelor's,84.4
+107,Female,9.1,71.5,PhD,85.5
+108,Female,7.4,65.4,Bachelor's,76.2
+109,Female,9.1,96.4,Bachelor's,84.0
+110,Female,0.3,,Bachelor's,29.6
+111,Male,6.8,57.4,Bachelor's,76.9
+112,Female,8.5,63.2,PhD,71.1
+113,Female,8.9,95.2,High School,82.0
+114,Male,0.4,93.0,High School,40.5
+115,Male,4.8,82.6,Bachelor's,62.4
+116,Male,5.8,97.5,Bachelor's,58.2
+117,Male,2.2,,Master's,39.1
+118,Male,4.3,82.9,Master's,61.8
+119,Male,8.4,97.5,Master's,73.7
+120,Female,9.8,62.3,High School,66.7
+121,Female,6.7,57.4,High School,54.8
+122,Female,9.2,98.7,Bachelor's,90.3
+123,Male,1.5,98.9,High School,44.0
+124,Female,4.5,61.6,High School,52.9
+125,Female,0.9,72.0,High School,22.3
+126,Female,1.8,80.5,High School,51.1
+127,Female,5.4,84.6,Master's,76.5
+128,Female,6.8,86.1,Master's,74.9
+129,Female,2.7,73.6,Master's,38.7
+130,Male,6.4,53.2,High School,53.2
+131,Male,8.8,99.2,High School,90.3
+132,Female,7.5,81.6,PhD,74.4
+133,Male,5.7,92.1,Master's,67.9
+134,Male,7.1,62.8,High School,59.4
+135,Male,3.3,,High School,46.4
+136,Female,6.2,94.6,Bachelor's,65.4
+137,Female,6.9,55.0,High School,52.3
+138,Female,0.5,58.1,High School,14.4
+139,Male,0.4,61.8,Bachelor's,12.3
+140,Female,3.4,50.6,Master's,44.3
+141,Female,8.1,54.5,High School,55.9
+142,Female,4.3,83.4,Master's,52.0
+143,Female,8.6,98.7,Bachelor's,86.6
+144,Female,2.9,86.3,Bachelor's,51.4
+145,Female,3.0,92.6,Bachelor's,47.0
+146,Female,8.8,50.6,Bachelor's,76.3
+147,Female,3.8,87.9,High School,50.3
+148,Female,5.1,89.0,Bachelor's,58.8
+149,Female,8.0,55.3,PhD,62.5
+150,Male,3.4,71.4,PhD,36.2
+151,Female,0.0,65.3,Bachelor's,18.3
+152,Female,5.9,87.1,Master's,63.9
+153,Female,3.5,57.6,Bachelor's,41.5
+154,Male,4.5,63.5,Bachelor's,62.2
+155,Male,2.9,75.5,High School,30.5
+156,Female,6.6,99.3,PhD,69.6
+157,Female,4.9,69.6,Master's,46.3
+158,Female,8.2,59.7,Master's,75.0
+159,Female,3.6,91.0,High School,60.2
+160,Female,2.4,65.9,High School,34.1
+161,Female,5.3,76.6,High School,52.0
+162,Male,7.7,77.2,High School,79.9
+163,Female,9.4,78.9,High School,84.0
+164,Male,2.6,79.3,Bachelor's,29.6
+165,Male,0.7,61.2,Master's,19.7
+166,Male,3.8,55.8,High School,42.8
+167,Male,7.4,66.8,PhD,60.1
+168,Male,6.0,98.7,Bachelor's,90.9
+169,Female,7.7,84.8,Bachelor's,67.9
+170,Female,5.1,65.5,Bachelor's,51.6
+171,Female,3.3,60.1,Master's,41.6
+172,Male,6.2,50.6,Master's,55.9
+173,Male,7.5,56.0,High School,56.6
+174,Female,6.3,82.9,Master's,62.3
+175,Female,0.2,77.5,Bachelor's,30.1
+176,Female,3.3,97.6,PhD,58.6
+177,Female,4.6,72.9,Bachelor's,57.8
+178,Male,3.4,93.8,Master's,53.3
+179,Female,1.5,79.7,High School,34.4
+180,Male,6.8,52.0,Bachelor's,59.7
+181,Female,0.2,53.4,Bachelor's,16.5
+182,Male,4.8,60.7,High School,39.1
+183,Male,0.3,94.8,Master's,25.8
+184,Male,3.1,75.2,Master's,49.1
+185,Male,9.6,54.6,High School,72.2
+186,Female,9.3,62.4,Master's,74.6
+187,Male,4.2,57.5,Bachelor's,50.5
+188,Male,1.2,78.4,Bachelor's,31.1
+189,Male,9.5,92.8,Bachelor's,84.5
+190,Male,9.5,65.0,High School,88.6
+191,Female,3.7,87.2,Master's,48.0
+192,Male,0.5,65.5,Master's,12.8
+193,Female,1.2,85.6,High School,31.8
+194,Male,9.0,100.0,High School,89.3
+195,Male,0.8,67.1,High School,40.6
+196,Male,4.3,53.5,Master's,45.3
+197,Male,2.8,58.2,Master's,42.7
+198,Female,2.3,54.1,Master's,22.9
+199,Female,0.9,80.9,Bachelor's,39.5
+200,Male,0.0,97.3,Bachelor's,18.1
+201,Female,1.7,61.0,PhD,39.0
+202,Female,6.1,51.8,Bachelor's,59.6
+203,Female,3.3,67.7,Bachelor's,60.6
+204,Male,7.0,69.3,Bachelor's,67.9
+205,Male,4.5,55.9,Master's,51.5
+206,Female,7.2,79.6,Bachelor's,69.3
+207,Female,1.9,51.0,Master's,23.3
+208,Male,2.3,98.0,High School,49.5
+209,Male,9.4,94.8,High School,97.8
+210,Male,9.1,64.7,High School,67.2
+211,Female,5.7,53.8,PhD,57.4
+212,Female,9.8,66.6,Bachelor's,95.4
+213,Female,8.7,76.8,High School,68.1
+214,Female,8.8,56.9,High School,58.3
+215,Male,5.3,50.9,Master's,40.9
+216,Female,1.2,59.8,Bachelor's,11.8
+217,Male,6.3,73.0,High School,71.1
+218,Male,9.6,79.9,High School,83.0
+219,Female,4.4,71.2,Master's,43.5
+220,Male,5.3,61.3,Bachelor's,38.9
+221,Male,1.0,99.1,Bachelor's,46.6
+222,Male,3.3,84.0,PhD,44.9
+223,Female,1.4,96.4,Master's,42.0
+224,Male,9.1,99.7,Master's,91.0
+225,Female,10.0,71.0,Bachelor's,98.3
+226,Female,8.9,91.7,Bachelor's,80.7
+227,Male,7.0,62.0,High School,73.0
+228,Male,5.4,53.8,Master's,60.6
+229,Male,3.7,55.4,Master's,43.5
+230,Male,2.9,78.3,Master's,57.5
+231,Male,7.5,74.5,Bachelor's,61.6
+232,Female,0.3,58.2,Master's,24.7
+233,Male,8.8,71.5,Master's,89.0
+234,Male,3.8,78.9,Bachelor's,63.4
+235,Female,3.0,57.6,High School,45.9
+236,Male,7.7,58.3,Bachelor's,75.2
+237,Female,4.6,81.7,Master's,42.9
+238,Female,9.2,52.3,High School,75.2
+239,Male,5.3,89.6,Bachelor's,65.3
+240,Male,8.9,62.9,PhD,72.4
+241,Male,5.2,60.3,High School,42.2
+242,Male,9.6,50.5,Bachelor's,71.3
+243,Female,2.6,61.7,High School,50.8
+244,Male,2.7,50.2,Bachelor's,31.9
+245,Female,9.9,63.8,High School,77.1
+246,Male,8.4,68.7,High School,89.7
+247,Female,1.6,96.5,Bachelor's,50.9
+248,Female,7.4,67.6,Master's,68.2
+249,Female,4.2,51.8,Master's,48.7
+250,Female,1.2,99.7,Master's,29.9
+251,Male,7.4,74.8,High School,64.8
+252,Female,9.9,78.2,Bachelor's,98.4
+253,Female,8.4,70.3,Master's,68.3
+254,Male,7.5,80.1,High School,72.0
+255,Male,4.1,85.2,High School,66.2
+256,Female,0.7,81.5,Master's,38.4
+257,Male,1.9,95.1,Master's,41.1
+258,Female,7.8,73.8,High School,67.2
+259,Female,5.7,55.0,Master's,50.8
+260,Male,8.9,63.3,Bachelor's,81.9
+261,Female,9.7,96.4,Master's,83.5
+262,Male,9.2,70.4,Bachelor's,82.3
+263,Female,6.9,56.4,Master's,67.4
+264,Female,2.0,94.8,High School,49.2
+265,Female,7.6,,High School,73.9
+266,Male,4.5,69.9,Master's,38.6
+267,Female,7.7,53.5,High School,70.5
+268,Male,4.7,67.0,Bachelor's,63.0
+269,Female,5.3,78.6,Bachelor's,67.7
+270,Male,6.2,92.0,Bachelor's,69.1
+271,Female,2.6,95.3,PhD,43.8
+272,Female,8.8,92.7,Bachelor's,79.4
+273,Male,9.1,73.7,PhD,78.1
+274,Female,5.7,78.1,High School,53.2
+275,Female,5.6,53.0,Bachelor's,38.0
+276,Male,6.0,66.2,Master's,41.8
+277,Female,7.4,68.6,High School,60.9
+278,Female,3.6,87.0,Bachelor's,52.1
+279,Male,1.4,72.3,Master's,40.6
+280,Male,1.1,73.5,High School,47.9
+281,Male,6.8,75.1,Bachelor's,72.4
+282,Female,4.4,61.3,Bachelor's,52.8
+283,Female,6.3,87.1,Master's,84.7
+284,Male,7.9,66.5,Bachelor's,67.3
+285,Female,6.6,96.7,PhD,87.5
+286,Female,2.3,60.7,Bachelor's,45.6
+287,Female,8.7,73.5,High School,77.1
+288,Female,9.0,62.0,Bachelor's,79.9
+289,Female,2.0,72.6,Master's,39.0
+290,Male,2.4,61.2,High School,35.6
+291,Female,2.4,64.1,Bachelor's,44.1
+292,Female,4.8,59.4,High School,51.0
+293,Male,9.7,77.8,PhD,90.3
+294,Male,6.1,67.8,High School,62.5
+295,Male,2.9,52.3,Bachelor's,35.7
+296,Female,8.1,99.8,Bachelor's,76.7
+297,Female,7.8,63.3,Master's,78.3
+298,Female,4.0,60.0,High School,49.6
+299,Male,3.7,61.7,Bachelor's,49.3
+300,Male,6.0,,Bachelor's,50.0
